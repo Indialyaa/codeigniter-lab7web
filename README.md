@@ -6,7 +6,13 @@ Kelas     : TI.21.A3
 M. Kuliah : Pemograman Web
 Dosen     : Agung Nugroho,S.Kom.,M.Kom
 ```
-## **output tugas lab 7**
+</br></br>
+
+## **Output tugas lab 7**
+
+<img src="image/ss.png" style="border: 2px solid #333; border-radius: 5px; box-shadow: 2px 2px 4px #00000040">
+
+</br></br>
 
 # CodeIgniter 4 Framework
 
