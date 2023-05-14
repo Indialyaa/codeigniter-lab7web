@@ -1,3 +1,13 @@
+# Lab7Web-codeigniter
+```bash
+Nama      : Indi Alya Putri
+NIM       : 312110137
+Kelas     : TI.21.A3
+M. Kuliah : Pemograman Web
+Dosen     : Agung Nugroho,S.Kom.,M.Kom
+```
+## **output tugas lab 7**
+
 # CodeIgniter 4 Framework
 
 ## What is CodeIgniter?
